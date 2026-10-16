@@ -1,0 +1,19 @@
+# Python bytecode and tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Notebooks and local editor settings
+.ipynb_checkpoints/
+.vscode/
+
+# Local secrets, database, and environments
+.env
+*.db
+.venv/
+venv/
+.conda/
+
+# Uploaded PDF cache / temp
+temp_handbook.pdf
